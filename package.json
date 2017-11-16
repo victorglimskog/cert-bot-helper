@@ -1,0 +1,22 @@
+{
+  "name": "cert-bot-helper",
+  "version": "0.1",
+  "description": "A small app that helps serve the .well-known folder etc...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorglimskog/cert-bot-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorglimskog/cert-bot-helper/issues"
+  },
+  "homepage": "https://github.com/victorglimskog/cert-bot-helper#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
